@@ -1,0 +1,10 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+transformers>=5.0.0
+pyyaml==6.0.2
+pydantic-settings==2.7.0
+python-dotenv==1.0.1
+python-json-logger==3.2.1
+protobuf==5.29.3
+sentencepiece==0.2.0

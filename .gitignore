@@ -184,3 +184,8 @@ fabric.properties
 # idea folder, uncomment if you don't need it
 .idea
 .idea/*
+
+Dockerfile.claude
+docker-compose.yml
+Makefile
+models
